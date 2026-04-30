@@ -1,4 +1,4 @@
-## Hey, I'm Mayur
+## Hey, I'm Mayur 👋
 
 **Senior Full Stack Engineer · Angular & PHP/Symfony Specialist · AI, Search, SaaS & Platform Systems Builder**
 
