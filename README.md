@@ -1,8 +1,8 @@
 ## Hey, I'm Mayur
 
-**Senior Full Stack Engineer · Angular & PHP/Symfony Specialist · Search, SaaS & Platform Systems Builder**
+**Senior Full Stack Engineer · Angular & PHP/Symfony Specialist · AI, Search, SaaS & Platform Systems Builder**
 
-> I build production-inspired systems that solve real engineering problems: fast search, reliable admin platforms, deployment visibility, observability and scalable SaaS workflows.
+> I build production-inspired systems that solve real engineering problems: AI-assisted production engineering, fast search, reliable admin platforms, deployment visibility, observability and scalable SaaS workflows.
 
 I'm a Full Stack Software Engineer with **10+ years of experience** building and maintaining web applications, dashboards, APIs and production workflows. My background combines **Angular, TypeScript, JavaScript, PHP, Symfony, MySQL, Elasticsearch, Apache Solr, GitLab CI/CD and Linux server environments**.
 
@@ -21,6 +21,15 @@ I like software that is practical, maintainable and useful for teams: clean APIs
 * **CI/CD visibility** — deployment dashboards, pipeline tracking and release-oriented developer tooling
 * **Observability tools** — log aggregation, error monitoring, health dashboards and Grafana-inspired reporting
 * **Production engineering** — Linux servers, Nginx/Apache, GitLab CI/CD, deployments, documentation and code review
+* **AI-assisted developer tools** — incident analysis, root-cause hypotheses, runbook retrieval and post-incident reports
+
+---
+
+## Flagship AI Project
+
+**[ai-incident-copilot](https://github.com/mayur-champaneria/ai-incident-copilot)** — AI-powered incident investigation assistant for production engineering teams. It analyzes logs, deployments, metrics and runbooks to generate root-cause hypotheses, evidence trails, recommended actions and post-incident reports.
+
+Built with a PHP/Symfony-style backend, TypeScript frontend, modern dashboard UI, OpenAI/Ollama provider support, Docker Compose, CI pipeline, sample incidents and detailed runbooks.
 
 ---
 
@@ -41,6 +50,12 @@ I like software that is practical, maintainable and useful for teams: clean APIs
 ---
 
 ## Portfolio by Engineering Area
+
+### AI & Production Engineering
+
+| Project | What it demonstrates |
+|---|---|
+| [AI Incident Copilot](https://github.com/mayur-champaneria/ai-incident-copilot) | AI-assisted root-cause analysis, log/deployment/metrics correlation and post-incident reporting |
 
 ### Search & Discovery
 
