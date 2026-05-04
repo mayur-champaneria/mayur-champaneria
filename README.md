@@ -36,6 +36,21 @@ I like software that is practical, maintainable and useful for teams: clean APIs
 
 ---
 
+## 🌐 Live Products
+
+### 🎯 [AI CV Builder](https://aicvbuilder.dojos.codes) — `aicvbuilder.dojos.codes`
+
+An AI-powered resume optimizer that scores any resume (PDF or DOCX) against a job description and rewrites it to hit **~95% ATS compatibility**. Powered by **Gemma 4** via Google AI Studio.
+
+| | |
+|---|---|
+| **Live URL** | [aicvbuilder.dojos.codes](https://aicvbuilder.dojos.codes) |
+| **Repo** | [github.com/mayur-champaneria/ai-cv-maker](https://github.com/mayur-champaneria/ai-cv-maker) |
+| **Stack** | FastAPI · React 19 · Tailwind CSS · MongoDB · Gemma 4 (Google AI Studio) · JWT Auth |
+| **Features** | ATS scoring · Resume rewrite · Cover letter generation · Multi-step wizard · PDF/DOCX export |
+
+---
+
 ## 🧠 Flagship AI Project
 
 <a href="https://github.com/mayur-champaneria/ai-incident-copilot">
@@ -68,6 +83,7 @@ Built with a PHP/Symfony-style backend, TypeScript frontend, modern dashboard UI
 
 | Project | What it demonstrates |
 |---|---|
+| [AI CV Builder](https://aicvbuilder.dojos.codes) | Live product — AI-powered ATS resume scoring, rewrite and cover letter generation using Gemma 4 |
 | [AI Incident Copilot](https://github.com/mayur-champaneria/ai-incident-copilot) | AI-assisted root-cause analysis, log/deployment/metrics correlation and post-incident reporting |
 
 </details>
@@ -137,6 +153,9 @@ Built with a PHP/Symfony-style backend, TypeScript frontend, modern dashboard UI
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -171,7 +190,7 @@ Built with a PHP/Symfony-style backend, TypeScript frontend, modern dashboard UI
 | 2023 | Knowledge platforms, GraphQL gateway and deployment dashboards |
 | 2024 | AI-assisted search and scalable SaaS deployment patterns |
 | 2025 | Distributed task scheduling and workflow orchestration |
-| 2026 | Platform engineering portals and developer self-service |
+| 2026 | Platform engineering portals, AI CV tools and developer self-service |
 
 ---
 
@@ -203,7 +222,7 @@ Built with a PHP/Symfony-style backend, TypeScript frontend, modern dashboard UI
 
 ---
 
-**Currently:** Building a public portfolio of real-world engineering systems across search, SaaS, CI/CD, observability and platform engineering.
+**Currently:** Building and shipping AI-powered tools and production engineering systems across search, SaaS, CI/CD, observability and platform engineering.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayur-champaneria&style=flat-square&color=blue)
 
