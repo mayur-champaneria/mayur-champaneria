@@ -40,13 +40,13 @@ I like software that is practical, maintainable and useful for teams: clean APIs
 
 ### 🎯 [AI CV Builder](https://aicvbuilder.dojos.codes) — `aicvbuilder.dojos.codes`
 
-An AI-powered resume optimizer that scores any resume (PDF or DOCX) against a job description and rewrites it to hit **~95% ATS compatibility**. Powered by **Gemma 4** via Google AI Studio.
+An AI-powered resume optimizer that scores any resume (PDF or DOCX) against a job description and rewrites it to hit **~95% ATS compatibility**. Powered by **Gemini 2.5 Flash** via Google AI Studio.
 
 | | |
 |---|---|
 | **Live URL** | [aicvbuilder.dojos.codes](https://aicvbuilder.dojos.codes) |
 | **Repo** | [github.com/mayur-champaneria/ai-cv-maker](https://github.com/mayur-champaneria/ai-cv-maker) |
-| **Stack** | FastAPI · React 19 · Tailwind CSS · MongoDB · Gemma 4 (Google AI Studio) · JWT Auth |
+| **Stack** | FastAPI · React 19 · Tailwind CSS · MongoDB · Gemini 2.5 Flash (Google AI Studio) · JWT Auth |
 | **Features** | ATS scoring · Resume rewrite · Cover letter generation · Multi-step wizard · PDF/DOCX export |
 
 ---
@@ -83,7 +83,7 @@ Built with a PHP/Symfony-style backend, TypeScript frontend, modern dashboard UI
 
 | Project | What it demonstrates |
 |---|---|
-| [AI CV Builder](https://aicvbuilder.dojos.codes) | Live product — AI-powered ATS resume scoring, rewrite and cover letter generation using Gemma 4 |
+| [AI CV Builder](https://aicvbuilder.dojos.codes) | Live product — AI-powered ATS resume scoring, rewrite and cover letter generation using Gemini 2.5 Flash |
 | [AI Incident Copilot](https://github.com/mayur-champaneria/ai-incident-copilot) | AI-assisted root-cause analysis, log/deployment/metrics correlation and post-incident reporting |
 
 </details>
