@@ -89,6 +89,12 @@ What it represents:
 
 ## Selected public repositories
 
+### [codeops-copilot](https://github.com/mayur-champaneria/codeops-copilot)
+
+AI-assisted production engineering for developers. It connects deployments, logs, metrics, runbooks and code ownership into a practical incident investigation workflow with ranked hypotheses, evidence trails, a static dashboard, API endpoints, report export and automated tests.
+
+This is the strongest public showcase repo on my profile right now because it matches the kind of senior engineering problems I like: production debugging, platform workflows, useful automation and clean product thinking.
+
 ### [jquery_serverside-datatables](https://github.com/mayur-champaneria/jquery_serverside-datatables)
 
 A small legacy PHP/jQuery utility for server-side DataTables handling. I keep it public because it reflects practical PHP/jQuery work that many real business systems relied on before modern frontend stacks became common.
