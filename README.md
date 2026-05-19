@@ -1,10 +1,9 @@
 <div align="center">
 
-# Mayur Champaneria
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:14b8a6&height=190&section=header&text=Mayur%20Champaneria&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Senior%20Full%20Stack%20Engineer%20%7C%20SaaS%20%7C%20AI%20Products%20%7C%20Production%20Systems&descAlignY=58&descSize=16" alt="Mayur Champaneria" />
 
-### Senior Full Stack Engineer · PHP/Symfony · Angular · Search · SaaS · Production Engineering
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hireadev.tech-17202A?style=for-the-badge)](https://hireadev.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hireadev.tech-14B8A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hireadev.tech)
+[![Live AI CV Builder](https://img.shields.io/badge/Live%20Project-aicvbuilder.dojos.codes-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://aicvbuilder.dojos.codes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayur%20Champaneria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurchampaneria)
 [![Email](https://img.shields.io/badge/Email-mayur.itpg%40gmail.com-B94A48?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayur.itpg@gmail.com)
 
@@ -12,53 +11,130 @@
 
 ---
 
-I am a full stack engineer with 10+ years of experience building web applications, admin systems, APIs, dashboards and production workflows.
+## I build practical web products that teams can actually run
 
-Most of my professional work has been inside private company and client codebases. This GitHub profile is intentionally small: a few selected public projects, older utilities, and production-inspired case studies that reflect the kind of problems I have worked on.
+I am a senior full stack engineer with 10+ years of experience across PHP/Symfony, Angular, SaaS workflows, search, dashboards, APIs, deployments and production support.
 
-My strongest areas are practical engineering work: making business systems easier to use, easier to maintain, and easier to operate.
+Most of my best work lives in private company and client codebases. This profile is intentionally curated: public utilities, older real-world PHP work, and live product links that show where my current focus is going.
+
+<div align="center">
+
+### Main links
+
+<a href="https://hireadev.tech">
+  <img src="https://img.shields.io/badge/hireadev.tech-Portfolio%20%26%20services-14B8A6?style=flat-square&labelColor=0F172A" alt="hireadev.tech" />
+</a>
+&nbsp;
+<a href="https://aicvbuilder.dojos.codes">
+  <img src="https://img.shields.io/badge/aicvbuilder.dojos.codes-Live%20AI%20CV%20Builder-2563EB?style=flat-square&labelColor=0F172A" alt="aicvbuilder.dojos.codes" />
+</a>
+
+</div>
+
+---
+
+## Featured live work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### hireadev.tech
+
+My portfolio and service site for full stack development work, web products, business systems and production-ready engineering.
+
+**Visit:** [hireadev.tech](https://hireadev.tech)
+
+Focus areas:
+
+- Full stack web apps
+- SaaS and admin systems
+- API/backend development
+- Search, dashboards and workflows
+- Deployment and production support
+
+</td>
+<td width="50%" valign="top">
+
+### AI CV Builder
+
+A live AI-assisted CV builder focused on practical resume improvement, ATS-friendly structure and faster job application workflows.
+
+**Live project:** [aicvbuilder.dojos.codes](https://aicvbuilder.dojos.codes)
+
+What it represents:
+
+- AI product thinking
+- Resume and career tooling
+- Clean web app workflows
+- Private production codebase
+- Real deployment, not just a demo repo
+
+</td>
+</tr>
+</table>
+
+---
 
 ## What I work on
 
 - PHP, Symfony, CodeIgniter and database-backed web applications
 - Angular, TypeScript, JavaScript and admin/dashboard interfaces
+- REST APIs, SaaS workflows, RBAC, audit trails and configurable business logic
 - Search systems using Elasticsearch, Apache Solr and SQL-backed filtering
-- SaaS/admin workflows, RBAC, audit trails and configurable business processes
-- CI/CD, Linux servers, deployment workflows and production troubleshooting
-- AI-assisted developer tools, especially around incidents, logs and code understanding
+- CI/CD, Linux servers, Docker, Nginx, Apache and production troubleshooting
+- AI-assisted tools for resumes, developer workflows, incidents, logs and code understanding
 
-## Selected public work
+---
 
-### Legacy PHP / jQuery utility
+## Selected public repositories
 
-**[jquery_serverside-datatables](https://github.com/mayur-champaneria/jquery_serverside-datatables)**  
-A small legacy PHP/jQuery utility for server-side DataTables handling. I keep this public because it reflects the kind of practical PHP/jQuery work many real systems needed before modern frontend stacks became common.
+### [jquery_serverside-datatables](https://github.com/mayur-champaneria/jquery_serverside-datatables)
 
-### Classic PHP project
+A small legacy PHP/jQuery utility for server-side DataTables handling. I keep it public because it reflects practical PHP/jQuery work that many real business systems relied on before modern frontend stacks became common.
 
-**[cv-builder](https://github.com/mayur-champaneria/cv-builder)**  
-An older PHP-style CV builder project. This is not meant to represent my current architecture style. It is here as a small example of earlier PHP application work.
+### [cv-builder](https://github.com/mayur-champaneria/cv-builder)
 
-### Current product direction
+Archived classic CV builder from earlier PHP work. It is kept as historical context, not as my current architecture style. My current CV product direction is the live AI CV Builder at [aicvbuilder.dojos.codes](https://aicvbuilder.dojos.codes).
 
-**CodeOps Copilot**  
-A private work-in-progress developer tool for incident investigation and production engineering. The goal is to connect deployments, logs, metrics, runbooks and changed files so developers can understand what likely broke production.
+### [OpenClaude-Portable](https://github.com/mayur-champaneria/OpenClaude-Portable)
 
-I am keeping it private until it is strong enough to be useful as a real developer product, not just a portfolio demo.
+Portable Claude Code setup for running developer tooling across machines with less installation friction.
 
-## Career focus
+### [free-claude-code](https://github.com/mayur-champaneria/free-claude-code)
 
-I started with PHP, jQuery and database-driven web applications, then moved into more structured backend systems, Angular dashboards, search, SaaS workflows, deployments and production support.
+Developer tooling around Claude Code and alternate model/provider workflows.
 
-The pattern across my work has stayed the same: build tools that help teams operate better. Admin panels, search screens, workflow systems, deployment visibility, audit trails and incident tooling may not always look flashy, but they are the software teams depend on every day.
+---
 
-## Technology stack
+## Stack I use often
 
-**Backend:** PHP, Symfony, CodeIgniter, Python, FastAPI, REST APIs  
-**Frontend:** Angular, TypeScript, JavaScript, jQuery, HTML, CSS, Sass  
-**Databases/Search:** MySQL, MariaDB, MongoDB, Elasticsearch, Apache Solr  
-**DevOps:** Git, GitLab CI/CD, Docker, Linux, Nginx, Apache  
-**Product areas:** SaaS, admin systems, search, observability, workflows, developer tools
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/Apache%20Solr-D9411E?style=for-the-badge&logo=apache-solr&logoColor=white" alt="Apache Solr" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" alt="Linux" />
+</p>
+
+---
+
+## How I work
+
+- I like simple systems that are easy to debug and hand over.
+- I care about business workflows, not just clean code in isolation.
+- I am comfortable moving between frontend, backend, database, server and production issues.
+- I prefer shipping useful tools over polishing empty demos.
+- I keep public GitHub curated because a lot of serious work happens in private repos.
+
+---
 
 ## Certifications
 
@@ -66,17 +142,14 @@ The pattern across my work has stayed the same: build tools that help teams oper
 - SAS Advanced Programmer
 - Ethical Hacker Level-1 / CEHE-1
 
-## How I work
-
-- I prefer simple, maintainable solutions over unnecessary complexity.
-- I care about readable code, clear documentation and smooth handover.
-- I like systems with useful admin workflows, reliable search and good operational visibility.
-- I am comfortable working across frontend, backend, database, deployment and production support.
-
 ---
 
 <div align="center">
 
-[Portfolio](https://hireadev.tech) · [LinkedIn](https://www.linkedin.com/in/mayurchampaneria) · [Email](mailto:mayur.itpg@gmail.com)
+### Need a full stack developer for a serious web product?
+
+[hireadev.tech](https://hireadev.tech) · [aicvbuilder.dojos.codes](https://aicvbuilder.dojos.codes) · [LinkedIn](https://www.linkedin.com/in/mayurchampaneria) · [Email](mailto:mayur.itpg@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:2563eb,100:0f172a&height=110&section=footer" alt="footer" />
 
 </div>
